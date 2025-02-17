@@ -103,7 +103,7 @@ export const Wireframe = () => {
         </p>
 
         <p className="absolute w-[432px] h-[25px] top-[366px] left-[-22px] [font-family:'Bubblegum_Sans',Helvetica] font-normal text-[#1d1d1b] text-[25px] text-center tracking-[-0.75px] leading-[25px] whitespace-nowrap">
-          tag @drawdotme on a tiktok post
+          tag @genieartwork on a tiktok post
         </p>
 
         <div className="absolute w-[583px] h-[550px] top-[391px] left-[33px]">
