@@ -10,11 +10,13 @@ export const Wireframe = () => {
           src="/img/image-6.png"
         />
 
+      <a href="https://linktr.ee/genieartwork" target="_blank" rel="noopener noreferrer">
         <img
-          className="absolute w-[85px] h-[113px] top-[60px] left-[1283px]"
-          alt="Image"
-          src="/img/image-8.png"
+            className="absolute w-[85px] h-[113px] top-[60px] left-[1283px]"
+            alt="Genie Artwork"
+            src="/img/image-8.png"
         />
+      </a>
 
         <img
           className="top-[272px] left-[33px] absolute w-[600px] h-0.5"
